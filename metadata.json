@@ -1,0 +1,7 @@
+{
+  "name": "FeelBeat - Libras & Resonant Haptics",
+  "description": "Acessibilidade musical em Libras com vídeo sincronizado, tradução de glosa em tempo real e vibrações hápticas multimodais para pessoas surdas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
